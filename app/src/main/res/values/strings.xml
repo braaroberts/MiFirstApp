@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mi primer aplicacion!</string>
+    <string name="mensaje">Bienvenido!</string>
+</resources>
