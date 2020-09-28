@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Meine erste Bewerbung!</string>
-    <string name="mensaje">Herzlich willkommen!!</string>
+    <string name="app_name">Hausaufgaben1</string>
+    <string name="Saludo">herzlich willkommen Pana</string>
+    <string name="boton">Eingeben</string>
 </resources>
